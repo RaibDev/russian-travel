@@ -15,7 +15,7 @@
   margin-bottom: 92px;
 }
 
-@media screen and (max-width: 1055px) {
+@media screen and (max-width: 1135px) {
   .place {
     gap: 48px 32px;
     width: calc(100% - 2*48px);

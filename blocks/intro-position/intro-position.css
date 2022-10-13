@@ -3,13 +3,13 @@
   margin-bottom: 92px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1075px) {
   .intro-position {
     padding-left: 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 890px) {
   .intro-position {
     padding-left: 24px;
     margin-bottom: 88px;
