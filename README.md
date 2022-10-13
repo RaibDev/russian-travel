@@ -9,4 +9,4 @@
 
 Данный проект развивает и показывает навыки студента по работе с языком разметки, стилей, системой контроля версий.
 ### Ссылка на проект: 
-https://github.com/RaibDev/russian-travel
+https://raibdev.github.io/russian-travel/
