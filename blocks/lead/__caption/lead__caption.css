@@ -8,6 +8,13 @@
   line-height: 1.4;
 }
 
+
+@media screen and (max-width: 890px) {
+  .lead__caption {
+    padding-left: 24px;
+  }
+}
+
 @media screen and (max-width: 725px) {
   .lead__caption {
     padding-left: 16px;
