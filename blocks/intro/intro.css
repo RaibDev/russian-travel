@@ -3,10 +3,27 @@
   font-family: 'Inter', Arial serif;
   font-style: normal;
   color: #fff;
+  padding-left: 148px;
+  margin-bottom: 92px;
+}
+
+@media screen and (max-width: 1075px) {
+  .intro {
+    padding-left: 48px;
+  }
+}
+
+@media screen and (max-width: 890px) {
+  .intro {
+    padding-left: 24px;
+    margin-bottom: 88px;
+  }
 }
 
 @media screen and (max-width: 725px) {
   .intro {
+    margin-bottom: 64px;
+    padding-left: 16px;
     max-width: 288px;
   }
 }
